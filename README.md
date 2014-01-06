@@ -24,5 +24,5 @@ application. Please include **ONLY** given requirements.
 Example can be found here: `/Example.php`
 
 ### Documentation
-There is UML diagram: `/doc/uml`
+There is UML diagram: `/docs/uml`
 
